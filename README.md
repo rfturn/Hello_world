@@ -1,2 +1,5 @@
 # Hello_world
-first repository 
+first repository
+
+Awake after months of sleep. 
+Back to the basics. 
